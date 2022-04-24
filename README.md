@@ -1,5 +1,5 @@
 # Terrain
-Experimenting with randomly generated coordinates and color matrices.
+Experimenting with randomly generated coordinates and color matrices using Perlin noise.
 
 Simple java project that can be run using the execution environement Processing.
 
