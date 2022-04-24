@@ -1,1 +1,1 @@
-[Alt Text](terrain.gif)
+![](terrain.gif)
