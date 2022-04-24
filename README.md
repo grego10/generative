@@ -3,7 +3,7 @@ Experimenting with randomly generated coordinates and color matrices using Perli
 
 Simple JavaScript project that can be run using the execution environement p5js.
 
-
+![](bubble.gif)
 
 # Terrain
 Experimenting with randomly generated coordinates and color matrices using Perlin noise.
